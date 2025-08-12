@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="network23.net.xml"/>
+        <route-files value="network23.rou.xml"/>
+        <additional-files value="network23.add.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="-1"/>
+    </time>
+</configuration>

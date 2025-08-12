@@ -4,11 +4,6 @@ Implementation of **Heterogeneous Graph Neural Network (HeteroGNN)-based Multi-A
 
 ---
 
-## Description
-Heterogeneous GNN-based multi-agent reinforcement learning for coordinated platooning and traffic signal control using Ray RLlib and SUMO.
-
----
-
 ## Features
 - **Heterogeneous GNN** for modeling both platoons and traffic signals in a unified graph.
 - **Multi-Agent Reinforcement Learning** for collaborative decision-making across agents.
